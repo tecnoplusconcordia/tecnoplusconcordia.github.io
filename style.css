@@ -66,7 +66,7 @@ body {
 
 .header .header_col_1 p {
     font-size: 2.4em;
-    font-weight: 500;
+    font-weight: 300;
 }
 
 .header .header_col_1 a {
@@ -134,7 +134,7 @@ body {
 }
 
 .services .services_col_1 {
-    width: 40%;
+    width: 50%;
     height: 100%;
     display: flex;
     align-items: center;
@@ -147,7 +147,7 @@ body {
 }
 
 .services .services_col_2 {
-    width: 60%;
+    width: 50%;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -391,7 +391,7 @@ body {
 
     /*Contact*/
     .contact {
-        height: aito;
+        height: auto;
         flex-direction: column;
     }
 
@@ -415,7 +415,7 @@ body {
     }
 
     .header .header_col_1 h2 {
-        font-size: 1.8em;
+        font-size: 1.5em;
     }
 
     .header .header_col_1 span {
@@ -472,7 +472,7 @@ body {
 
     /*Other Services*/
     .other_services .title h3 {
-        font-size: 1.4em;
+        font-size: 1.2em;
     }
 
     .other_services .BoxContent {
@@ -499,7 +499,8 @@ body {
         font-size: 1em;
     }
 
-    .contact .contact_col_1 .content i, .contact .contact_col_2 .content i {
+    .contact .contact_col_1 .content i, 
+    .contact .contact_col_2 .content i {
         padding: 10px;
         font-size: 2em;
     }
